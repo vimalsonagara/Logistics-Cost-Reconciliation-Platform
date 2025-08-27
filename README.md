@@ -41,7 +41,7 @@ The solution was divided into two main parts:
 ### Steps to Run the Project
 1. **Clone the repository**  
    ```bash
-   git clone <https://github.com/vimalsonagara/Logistics-Cost-Reconciliation-Platform.git>
+   git clone https://github.com/vimalsonagara/Logistics-Cost-Reconciliation-Platform.git
    cd Logistics-Cost-Reconciliation-Platform
    ```
 
